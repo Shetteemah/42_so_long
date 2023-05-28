@@ -26,8 +26,10 @@ The game is built using the MinilibX library, which provides a simple and effici
 ### Installation
 1. Clone the repository:
 ```
-git clone https://github.com/Shetteemah/42_so_long.git
-cd so_long
+git clone https://github.com/Shetteemah/so-long.git
+```
+```
+cd so-long
 ```
 2. Compile the game:
 ```
@@ -40,7 +42,7 @@ To start the game, run the `./so_long` executable:
 ```
 The game will load the map file specified as the first argument, and display the game window.
 
-Use `A`, `S`, `D, and `W` keys to move the player character around the map. Collect all the required items and reach the exit to complete the level.
+Use `A`, `S`, `D`, and `W` keys to move the player character around the map. Collect all the required items and reach the exit to complete the level.
 
 Press `ESC` or close the game window to exit the game.
 
